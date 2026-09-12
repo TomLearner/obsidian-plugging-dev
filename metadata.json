@@ -1,0 +1,7 @@
+{
+  "name": "Obsidian ChatGPT LaTeX Fixer",
+  "description": "An intelligent converter and Obsidian plugin suite that automatically repairs broken ChatGPT copy-paste formulas into standard LaTeX for Obsidian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
